@@ -6,7 +6,7 @@ Team Members:
 
 1. **Александр Груздев** - Backend, Frontend
 2. **Максим Литвинов** - ML
-3. **Хомятов Александр** - ML
+3. **Александр Хомятов** - ML
 4. **Татьяна Янчук** - Design
 
 Демонстрация веб-сервиса: [тык](https://drive.google.com/file/d/1rjdbdda2kV9LLqoA42z9-2Js45z8ZWsJ/view?usp=sharing)
